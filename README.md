@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.Net Core | Python**
-
+- 🌱 I learned **.Net Core | Python**
+- 
+- 🌱 I’m currently learning **Java Spring Framework** -> https://github.com/AliBiner/Java-Projects
+- 
 - 📫 How to reach me **business@alibiner.com**
 
 <h3 align="left">Connect with me:</h3>
