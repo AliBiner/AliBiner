@@ -3,7 +3,7 @@
 
 - 🌱 I learned **.Net Core | Python**
   
-- 🌱 I’m currently learning **Java Spring Framework** -> https://github.com/AliBiner/Java-Projects
+- 🌱 I’m currently learning **Node.Js, React.Js and React-Native**
   
 - 📫 How to reach me **business@alibiner.com**
 
