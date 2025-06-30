@@ -3,7 +3,7 @@
 
 - 🌱 I learned **.Net Core | Python | Node.Js | React.Js | React-Native**
   
-- 🌱 I’m currently learning ** Java Spring Boot **
+- 🌱 I’m currently learning **Java Spring Boot**
   
 - 📫 How to reach me **ali_bnr@outlook.com**
 
