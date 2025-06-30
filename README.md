@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A backend developer from Turkey</h3>
 
-- 🌱 I learned **.Net Core | Python**
+- 🌱 I learned **.Net Core | Python | Node.Js | React.Js | React-Native**
   
-- 🌱 I’m currently learning **Node.Js, React.Js and React-Native**
+- 🌱 I’m currently learning ** Java Spring Boot **
   
-- 📫 How to reach me **business@alibiner.com**
+- 📫 How to reach me **ali_bnr@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
