@@ -3,7 +3,7 @@
 
 - 🌱 I learned **.Net Core | Python | Node.Js | React.Js | React-Native**
   
-- 🌱 I’m currently learning **Java Spring Boot** with **Patika.dev School**
+- 🌱 I’m currently learning **Java Spring Boot** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
   
 - 📫 How to reach me **ali_bnr@outlook.com**
 
