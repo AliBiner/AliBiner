@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A backend developer from Turkey</h3>
 
-- 🌱 I learned **.Net Core | Python | Node.Js | React.Js | React-Native**
+- 🌱 I used **.Net Core | Java Spring Boot | Docker | PostgreSQL**
   
 - 🌱 I’m currently learning **Java Spring Boot** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
 - Highlighted Repositories:
-  1. https://github.com/AliBiner/PatikaBootcamp (16-week program)
-  2. https://github.com/AliBiner/Baslangic_Seviye_Java_Backend_Web_Development_Patikasi (Online Education Series - Beginner-level training)
+  1. https://github.com/AliBiner/PatikaBootcamp
+  2. https://github.com/AliBiner/Baslangic_Seviye_Java_Backend_Web_Development_Patikasi
   
 - 📫 How to reach me **ali_bnr@outlook.com**
 
