@@ -5,8 +5,14 @@
   
 - 🌱 I’m currently learning **Java Spring Boot** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
 - Highlighted Repositories:
-  1. https://github.com/AliBiner/PatikaBootcamp
-  2. https://github.com/AliBiner/Baslangic_Seviye_Java_Backend_Web_Development_Patikasi
+  1. https://github.com/AliBiner/PatikaBootcamp (This is my bootcamp adventure. Please review the Readme file.)
+  2. https://github.com/AliBiner/LibraryManagementSystem (This is a console app. I develop that for my first final project.)
+  
+
+- My intern projects:
+  1. https://github.com/AliBiner/Carbon-Footprint
+  2. https://github.com/AliBiner/BilBasarEgitim
+  3. https://github.com/AliBiner/E-Commerce
   
 - 📫 How to reach me **ali_bnr@outlook.com**
 
