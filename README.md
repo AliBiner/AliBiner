@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A backend developer from Turkey</h3>
 
-- 🌱 I used **.Net Core | Java Spring Boot | Docker | PostgreSQL**
+- 🌱 I used **.Net Core | Python | Docker | PostgreSQL**
   
 - 🌱 I’m currently learning **Java Spring Boot** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
 - Highlighted Repositories:
