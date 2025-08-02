@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A backend developer from Turkey</h3>
 
-- 🌱 I used **.Net Core | Python | Docker | PostgreSQL**
+- 🌱 I used **.Net Core | Python | Docker | Oracle Sql**
   
-- 🌱 I’m currently learning **Java Spring Boot** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
+- 🌱 I’m currently learning **Java Spring Boot and PostgresSQL** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
 - Highlighted Repositories:
   1. https://github.com/AliBiner/PatikaBootcamp (This is my bootcamp adventure. Please review the Readme file.)
   2. https://github.com/AliBiner/LibraryManagementSystem (This is a console app. I develop that for my first final project.)
