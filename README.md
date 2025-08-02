@@ -14,7 +14,7 @@
   2. https://github.com/AliBiner/BilBasarEgitim
   3. https://github.com/AliBiner/E-Commerce
   
-- 📫 How to reach me **ali_bnr@outlook.com**
+- 📫 How to reach me **ali@alibiner.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
