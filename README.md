@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A backend developer from Turkey</h3>
+<h3 align="center">A Backend Developer from Turkey</h3>
 
-- 🌱 I used **.Net Core | Python | Docker | Oracle Sql**
+- 🌱 I used **Java SE | Java Spring Boot | .Net Core | Oracle Sql | PostgreSQL | Docker**
   
 - 🌱 I’m currently learning **Java Spring Boot and PostgresSQL** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
 - Highlighted Repositories:
