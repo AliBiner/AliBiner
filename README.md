@@ -50,3 +50,12 @@
   </a>
 </p>
 
+<h3 align="left">Frameworks:</h3>
+<p align="left"> 
+  <a href="https://www.oracle.com/database/technologies/" target="_blank" rel="noreferrer" background-color="white"> 
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg](https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg)" alt="dot-net" width="40" height="40" background-color="white"/> 
+  </a>  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)" alt="spring" width="40" height="40"/> 
+  </a> 
+</p>
