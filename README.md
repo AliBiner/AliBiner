@@ -79,6 +79,12 @@
   </a> 
 </p>
 
+<table>
+  <tr>
+    <td>Programming Languages:</td>
+    <td>Database Technologies:</td>
+  </tr>
+</table>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBiner&theme=transparent&show_icons=true)
