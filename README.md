@@ -78,3 +78,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> 
   </a> 
 </p>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibiner&theme=transparent&show_icons=true)
