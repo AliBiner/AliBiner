@@ -52,10 +52,29 @@
 
 <h3 align="left">Frameworks:</h3>
 <p align="left"> 
-  <a href="https://www.oracle.com/database/technologies/" target="_blank" rel="noreferrer" background-color="white"> 
+  <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer" background-color="white"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dot-net" width="40" height="40" background-color="white"/> 
   </a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <a href="https://spring.io" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> 
+  </a> 
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left"> 
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer" background-color="white"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" alt="postman" width="40" height="40" background-color="white"/> 
+  </a>  
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/> 
+  </a> 
+  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> 
   </a> 
 </p>
