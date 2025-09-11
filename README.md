@@ -21,6 +21,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alibiner/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alibiner/" height="30" width="40" />
 </a>
+  <a href="https://www.youtube.com/@bnrsoftware" target="_blank">
+  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bnrsoftware" height="30" width="40" />
+</a>
 <!--<a href="https://medium.com/@ali.biner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ali.biner" height="30" width="40" /></a>-->
 </p>
 
