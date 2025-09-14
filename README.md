@@ -157,5 +157,5 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBiner&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBiner&theme=transparent&show_icons=true&cache_seconds=1)
 
