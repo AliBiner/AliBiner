@@ -13,23 +13,110 @@
 <!--
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A Backend Developer from Turkey</h3>
--->
+
 - 🌱 I used **Java SE | Java Spring Boot | .Net Core | Oracle Sql | PostgreSQL | Docker**
   
 - 🌱 I’m currently learning **Java Spring Boot and PostgresSQL** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
+-->
+
+### 👨‍💻 About Me
+
+I'm a backend developer passionate about creating clean, maintainable, and scalable systems.  
+I enjoy learning new technologies, improving my code structure, and sharing what I learn through open-source projects.  
+Currently, I’m focusing on **Spring Boot, RESTful API design, and PostgreSQL**.
+
+### 🚀 Highlighted Projects
+
+<table>
+  <tr>
+    <th>Project</td>
+    <th>Description</td>
+    <th>Technologies</td>
+  </tr>
+  <tr>
+    <td><a href= "https://github.com/AliBiner/veterinary_system">Veterinary System</a></td>
+    <td>REST API for a veterinary clinic management system (Graduation Project 3)</td>
+    <td>Java 21, Spring Boot, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><a href= "https://github.com/AliBiner/Rent-a-Car">Rent a Car</a></td>
+    <td>Console-based car rental app with Clean Architecture (Graduation Project 2)</td>
+    <td>Java 21, JDBC, PostgreSQL, SOLID</td>
+  </tr>
+
+ <tr>
+    <td><a href= "https://github.com/AliBiner/LibraryManagementSystem">Library Management System</a></td>
+    <td>Library console app (Graduation Project 1)</td>
+    <td>Java, OOP, Maven</td>
+  </tr>
+
+  <tr>
+    <td><a href= "https://github.com/AliBiner/PatikaBootcamp">Patika Bootcamp Repo</a></td>
+    <td>My complete bootcamp journey with notes and exercises</td>
+    <td>Java, Spring Boot, PostgreSQL</td>
+  </tr>
+  
+</table>
+<!--
 - Highlighted Repositories:
   1. https://github.com/AliBiner/PatikaBootcamp (This is my bootcamp adventure. Please review the Readme file.)
   2. https://github.com/AliBiner/Rent-a-Car (This is a console app. I developed that for my second final project. I implemented Java 21, JDBC Driver, PostgreSQL, Clean Architecture, OOP, SOLID Principles, and Maven.)
   3. https://github.com/AliBiner/LibraryManagementSystem (This is a console app. I developed that for my first final project.)
-  
+  -->
 
+### 🧑‍💼 Internship Projects
+
+<table>
+  <tr>
+    <th>Project</td>
+    <th>Description</td>
+  </tr>
+  <tr>
+    <td><a href= "https://github.com/AliBiner/Carbon-Footprint">Carbon Footprint</a></td>
+    <td>Environmental impact tracking system</td>
+  </tr>
+  <tr>
+    <td><a href= "https://github.com/AliBiner/BilBasarEgitim">BilBasarEgitim</a></td>
+    <td>Education-oriented management system</td>
+  </tr>
+ <tr>
+    <td><a href= "https://github.com/AliBiner/E-Commerce">E-Commerce</a></td>
+    <td>Basic e-commerce API</td>
+  </tr>
+
+</table>
+<br>
+<br>
+
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frameworks & Tools:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
+
+<!--
 - My intern projects:
   1. https://github.com/AliBiner/Carbon-Footprint
   2. https://github.com/AliBiner/BilBasarEgitim
   3. https://github.com/AliBiner/E-Commerce
-  
+  -->
+<!--  
 - 📫 How to reach me **ali@alibiner.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alibiner/" target="_blank">
@@ -39,11 +126,11 @@
   <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bnrsoftware" height="30" width="40" />
 </a>
 <!--<a href="https://medium.com/@ali.biner" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ali.biner" height="30" width="40" /></a>-->
+<!--
 </p>
-
 <br>
 <br>
-
+-->
 <!-- <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" background-color="white"> 
@@ -98,7 +185,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> 
   </a> 
 </p> -->
-
+<!--
 <table>
   <tr>
     <th>Programming Languages</td>
@@ -170,6 +257,6 @@
 </table>
 <br>
 <br>
-
+-->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliBiner&theme=transparent&show_icons=true&cache_seconds=21600) -->
 
