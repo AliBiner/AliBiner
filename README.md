@@ -2,7 +2,7 @@
 <img src="https://github.com/AliBiner/AliBiner/blob/main/banner.png" alt="banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Ali Biner</h1>
-<h3 align="center">🚀 Backend Developer | Java Spring Boot & PostgreSQL Enthusiast</h3>
+<h3 align="center">🚀 Backend Developer | Java Spring Boot & PostgreSQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alibiner/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
