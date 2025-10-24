@@ -107,6 +107,13 @@ Currently, I’m focusing on **Spring Boot, RESTful API design, and PostgreSQL**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliBiner&show_icons=true&theme=radical" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBiner&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
 
 
 <!--
