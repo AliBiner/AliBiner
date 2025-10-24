@@ -85,8 +85,7 @@ Currently, I’m focusing on **Spring Boot, RESTful API design, and PostgreSQL**
   </tr>
 
 </table>
-<br>
-<br>
+
 
 
 ### 🛠️ Tech Stack
