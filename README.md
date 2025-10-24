@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/AliBiner/AliBiner/blob/main/banner.png" alt="banner" width="100">
+<img src="https://github.com/AliBiner/AliBiner/blob/main/banner.png" alt="banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Ali Biner</h1>
 <h3 align="center">🚀 Backend Developer | Java Spring Boot & PostgreSQL Enthusiast</h3>
