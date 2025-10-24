@@ -1,6 +1,19 @@
+<!-- Banner -->
+<img src="https://github.com/AliBiner/AliBiner/banner.png" alt="banner" width="100%">
+
+<h1 align="center">Hi 👋, I'm Ali Biner</h1>
+<h3 align="center">🚀 Backend Developer | Java Spring Boot & PostgreSQL Enthusiast</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alibiner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ali@alibiner.com"><img src="https://img.shields.io/badge/Email-ali@alibiner.com-blue?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.youtube.com/@bnrsoftware"><img src="https://img.shields.io/badge/YouTube-BNR%20Software-red?style=for-the-badge&logo=youtube"/></a>
+</p>
+
+<!--
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A Backend Developer from Turkey</h3>
-
+-->
 - 🌱 I used **Java SE | Java Spring Boot | .Net Core | Oracle Sql | PostgreSQL | Docker**
   
 - 🌱 I’m currently learning **Java Spring Boot and PostgresSQL** with **<a href="https://www.patika.dev" targer="blank">Patika.dev School</a>**
